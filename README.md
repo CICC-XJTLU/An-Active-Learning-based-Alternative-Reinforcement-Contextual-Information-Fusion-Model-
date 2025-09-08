@@ -2,7 +2,7 @@
 
 Pytorch implementation for codes in "An Active Learning-based Alternative Reinforcement Contextual Information Fusion Model for Multimodal Sentiment Analysis (AL-ARCF)"(https://ieeexplore.ieee.org/document/11122316)
 
-![Uploading image.png…]()
+<img width="7776" height="3959" alt="Overall_Framework" src="https://github.com/user-attachments/assets/944d10ff-7f7a-48e0-ba16-8dc139bd6473" />
 
 # Prepare
 
@@ -35,6 +35,7 @@ Please cite our paper if you find our work useful for your research:
   doi={10.1109/TASLPRO.2025.3597474}}
 
 ```
+
 
 
 
